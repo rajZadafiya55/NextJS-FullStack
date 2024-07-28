@@ -1,0 +1,1 @@
+export const connectionUrl = "mongodb+srv://ganesha:zadafiya@cluster0.dzhrftq.mongodb.net/NextDemo?retryWrites=true&w=majority"

@@ -1,0 +1,26 @@
+export const users = [ 
+    {
+        id:10,
+        name:'ganesha',
+        age:1000,
+        city:'mumbai'
+    },
+    {
+        id:20,
+        name:'shiv',
+        age:5000,
+        city:'kedar'
+    },
+    {
+        id:30,
+        name:'krishna',
+        age:5000,
+        city:'dwarika'
+    },
+    {
+        id:40,
+        name:'narayan',
+        age:10000,
+        city:'suart'
+    },
+]
